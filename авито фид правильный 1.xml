@@ -1729,46 +1729,7 @@
 </Ad>
 <Ad>
 <Id>amort22813370047</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7475558777</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>20000</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/b8S_SOpnL4iOVw"/>
-</Images>
-<Title>Bosch 280217502 датчик массового расхода воздуха</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Электрооборудование</SparePartType>
-<Condition>Новое</Condition>
-<Availability>В наличии</Availability>
-<Brand>Bosch</Brand>
-<OEM>280217502</OEM>
-<CompatibleCars>
-<Car make="BMW" model="3 (E36) 325 i" year_from="1990" year_to="1998"/>
-<Car make="BMW" model="3 Кабрио (E36) 325 i" year_from="1993" year_to="1999"/>
-<Car make="BMW" model="3 Купе (E36) 325 i" year_from="1992" year_to="1999"/>
-<Car make="BMW" model="5 (E34) 525 i 24V" year_from="1987" year_to="1995"/>
-<Car make="BMW" model="5 (E34) 525 i X 24V" year_from="1987" year_to="1995"/>
-<Car make="BMW" model="5 (E34) 530 i V8" year_from="1987" year_to="1995"/>
-<Car make="BMW" model="5 (E39) 535 i" year_from="1995" year_to="2003"/>
-<Car make="BMW" model="5 Touring (E34) 525 i" year_from="1991" year_to="1995"/>
-<Car make="BMW" model="5 Touring (E34) 525 i X" year_from="1991" year_to="1995"/>
-<Car make="BMW" model="5 Touring (E34) 530 i" year_from="1991" year_to="1995"/>
-</CompatibleCars>
+<AdStatus>Removed</AdStatus>
 </Ad>
 <Ad>
 <Id>amort22813370048</Id>
