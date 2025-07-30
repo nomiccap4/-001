@@ -10633,8 +10633,8 @@
 </Delivery>
 <GoodsType>Запчасти</GoodsType>
 <AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Электрооборудование</SparePartType>
+<ProductType>Бортовые</ProductType>
+<PartsHindcarriageType>Борта</PartsHindcarriageType>
 <Condition>Новое</Condition>
 <Originality>Аналог</Originality>
 <Availability>В наличии</Availability>
