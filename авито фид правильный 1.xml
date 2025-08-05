@@ -622,7 +622,7 @@
         <Images>
             <Image url="https://disk.yandex.ru/i/wS4A1wyQNF1qDw"/>
         </Images>
-        <Title>Kyb c43047 Амортизатор передний стойка</Title>
+        <Title>Kyb 343047 Амортизатор передний стойка</Title>
         <Delivery>
             <AvitoDelivery>true</AvitoDelivery>
             <Pickup>true</Pickup>
@@ -636,7 +636,7 @@
         <Originality>Оригинал</Originality>
         <Availability>В наличии</Availability>
         <Brand>Kyb</Brand>
-        <OEM>c43047</OEM>
+        <OEM>343047</OEM>
         <CompatibleCars>
             <Car make="Hyundai" model="Accent" generation="II (LC)" year_from="1999" year_to="2005"/>
             <Car make="Hyundai" model="Accent" generation="III (MC)" year_from="2005" year_to="2010"/>
@@ -11637,3 +11637,4 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
