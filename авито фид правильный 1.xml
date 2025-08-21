@@ -726,11 +726,11 @@
         <Address>Москва</Address>
         <Category>Запчасти и аксессуары</Category>
         <Description><![CDATA[Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail!]]></Description>
-        <Price>10000</Price>
+        <Price>3300</Price>
         <Images>
             <Image url="https://disk.yandex.ru/i/IZu7a0AXfvOWig"/>
         </Images>
-        <Title>Monroe 11291 стойка стабилизатора</Title>
+        <Title>Monroe 11291 амортизатор</Title>
         <Delivery>
             <AvitoDelivery>true</AvitoDelivery>
             <Pickup>true</Pickup>
@@ -760,11 +760,11 @@
         <Address>Москва</Address>
         <Category>Запчасти и аксессуары</Category>
         <Description><![CDATA[Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail!]]></Description>
-        <Price>10000</Price>
+        <Price>3300</Price>
         <Images>
             <Image url="https://disk.yandex.ru/i/n8VqDEzwoVGCJA"/>
         </Images>
-        <Title>Monroe 11290 стойка стабилизатора</Title>
+        <Title>Monroe 11290 амортизатор</Title>
         <Delivery>
             <AvitoDelivery>true</AvitoDelivery>
             <Pickup>true</Pickup>
@@ -11637,5 +11637,6 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
 
 
