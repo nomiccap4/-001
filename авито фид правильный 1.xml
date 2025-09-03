@@ -5093,43 +5093,6 @@
 </CompatibleCars>
 </Ad>
 <Ad>
-<Id>amort22813370134</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507115074</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>5500</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/JVkY4JLfwvUpng"/>
-</Images>
-<Title>FAG 713610650 Набор ступичного подшипника</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>подвеска</SparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>FAG</Brand>
-<OEM>713610650</OEM>
-<CompatibleCars>
-<Car make="Mercedes-Benz" model="S-Class (W220)" year_from="1998" year_to="2005"/>
-<Car make="Mercedes-Benz" model="S-Class Coupe (C215)" year_from="1999" year_to="2006"/>
-</CompatibleCars>
-</Ad>
-<Ad>
 <Id>amort22813370135</Id>
 <ListingFee>Package</ListingFee>
 <AvitoId>7507709953</AvitoId>
@@ -9039,58 +9002,6 @@
 </CompatibleCars>
 </Ad>
 <Ad>
-<Id>korobka133700027</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7539042850</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Добро пожаловать в магазин ExpressDetail! Если есть вопросы — пишите в личные сообщения, поможем подобрать и проконсультируем. Отправка по понедельникам, средам и пятницам. Самовывоз: ул. Подольских курсантов 34 с2. Также есть магазин ExpressDetail в Ступино, Пристанционная ул., 19. Спасибо за выбор ExpressDetail! ]]>
-</Description>
-<Price>1500</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/cZVPrVNGBhVgtw"/>
-</Images>
-<Title>VAG 03C115611AF Щуп масляный двигателя</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Двигатель</SparePartType>
-<EngineSparePartType>Масляный насос, система смазки</EngineSparePartType>
-<Condition>Новое</Condition>
-<Originality>Оригинал</Originality>
-<Availability>В наличии</Availability>
-<Brand>VAG</Brand>
-<OEM>03C115611AF</OEM>
-<CompatibleCars>
-<Car make="Volkswagen" model="Golf V" year_from="2003" year_to="2009"/>
-<Car make="Volkswagen" model="Golf Plus" year_from="2005" year_to="2013"/>
-<Car make="Volkswagen" model="Touran" year_from="2003" year_to="2010"/>
-<Car make="Volkswagen" model="Passat B6" year_from="2005" year_to="2010"/>
-<Car make="Volkswagen" model="Jetta V" year_from="2005" year_to="2010"/>
-<Car make="Volkswagen" model="Eos" year_from="2006" year_to="2015"/>
-<Car make="Volkswagen" model="Tiguan" year_from="2007" year_to="2018"/>
-<Car make="Volkswagen" model="Scirocco III" year_from="2008" year_to="2017"/>
-<Car make="Volkswagen" model="Polo V" year_from="2009" year_to="2017"/>
-<Car make="Volkswagen" model="Beetle" year_from="2011" year_to="2019"/>
-<Car make="Audi" model="A3 (8P)" year_from="2003" year_to="2013"/>
-<Car make="Skoda" model="Octavia II (1Z)" year_from="2004" year_to="2013"/>
-<Car make="Skoda" model="Superb II (3T)" year_from="2008" year_to="2015"/>
-<Car make="Skoda" model="Yeti" year_from="2009" year_to="2017"/>
-<Car make="Seat" model="Leon II (1P)" year_from="2005" year_to="2012"/>
-<Car make="Seat" model="Altea" year_from="2004" year_to="2015"/>
-<Car make="Seat" model="Toledo III (5P)" year_from="2004" year_to="2009"/>
-</CompatibleCars>
-</Ad>
-<Ad>
 <Id>korobka133700028</Id>
 <ListingFee>Package</ListingFee>
 <AvitoId>7539363795</AvitoId>
@@ -9124,43 +9035,6 @@
 <OEM>0K9AA67321</OEM>
 <CompatibleCars>
 <Car make="Kia" model="Clarus" year_from="1995" year_to="2001"/>
-</CompatibleCars>
-</Ad>
-<Ad>
-<Id>korobka133700029</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7539283065</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Добро пожаловать в магазин ExpressDetail! Если есть вопросы — пишите в личные сообщения, поможем подобрать и проконсультируем. Отправка по понедельникам, средам и пятницам. Самовывоз: ул. Подольских курсантов 34 с2. Также есть магазин ExpressDetail в Ступино, Пристанционная ул., 19. Спасибо за выбор ExpressDetail! ]]>
-</Description>
-<Price>900</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/lqrC1QATSNSN7g"/>
-</Images>
-<Title>NISSAN GROUP 66894BR00A Накладка декоративная правая стекла лобового</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Кузов</SparePartType>
-<BodySparePartType>Защита</BodySparePartType>
-<Condition>Новое</Condition>
-<Originality>Оригинал</Originality>
-<Availability>В наличии</Availability>
-<Brand>NISSAN</Brand>
-<OEM>66894BR00A</OEM>
-<CompatibleCars>
-<Car make="Nissan" model="Qashqai J10" year_from="2006" year_to="2013"/>
-<Car make="Nissan" model="Qashqai+2 I" year_from="2008" year_to="2013"/>
 </CompatibleCars>
 </Ad>
 <Ad>
@@ -9498,6 +9372,7 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
 
 
 
