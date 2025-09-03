@@ -4916,7 +4916,7 @@
 <Description>
 <![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
 </Description>
-<Price>2500</Price>
+<Price>4800</Price>
 <Images>
 <Image url="https://disk.yandex.ru/i/DkWJlPT1q89-zw"/>
 </Images>
@@ -5004,59 +5004,6 @@
 <Car make="DS" model="4" year_from="2015" year_to="2018"/>
 <Car make="DS" model="5" year_from="2015" year_to="2018"/>
 <Car make="DS" model="7 Crossback (J_)" year_from="2017" year_to="н.в."/>
-</CompatibleCars>
-</Ad>
-<Ad>
-<Id>amort22813370131</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507093491</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>6800</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/xmzWbulB8S8IvQ"/>
-</Images>
-<Title>FAG 713660210 Набор ступичного подшипника</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>подвеска</SparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>FAG</Brand>
-<OEM>713660210</OEM>
-<CompatibleCars>
-<Car make="Audi" model="A1 (8X1, 8XK)" year_from="2010" year_to="2018"/>
-<Car make="Audi" model="A1 Sportback (8XA, 8XF)" year_from="2011" year_to="2018"/>
-<Car make="Audi" model="A3 (8V1, 8VK)" year_from="2012" year_to="2020"/>
-<Car make="Audi" model="A3 Sportback (8VA, 8VF)" year_from="2012" year_to="н.в."/>
-<Car make="Audi" model="A3 Limousine (8VS, 8VM)" year_from="2013" year_to="н.в."/>
-<Car make="Audi" model="A3 Cabriolet (8V7, 8VE)" year_from="2013" year_to="н.в."/>
-<Car make="Audi" model="Q2 (GAQ)" year_from="2016" year_to="н.в."/>
-<Car make="Audi" model="TT (FV3, FVP)" year_from="2014" year_to="н.в."/>
-<Car make="Audi" model="TT Roadster (FV9, FVR)" year_from="2014" year_to="н.в."/>
-<Car make="Seat" model="Ibiza IV (6J5, 6P1)" year_from="2008" year_to="2017"/>
-<Car make="Seat" model="Ibiza IV Sportcoupe (6J1, 6P5)" year_from="2008" year_to="2017"/>
-<Car make="Seat" model="Ibiza IV ST (6J8, 6P8)" year_from="2010" year_to="2016"/>
-<Car make="Seat" model="Leon III (5F1)" year_from="2012" year_to="н.в."/>
-<Car make="Seat" model="Leon SC (5F5)" year_from="2013" year_to="н.в."/>
-<Car make="Seat" model="Leon ST (5F8)" year_from="2013" year_to="н.в."/>
-<Car make="Seat" model="Ateca (KH7, KHP)" year_from="2016" year_to="н.в."/>
-<Car make="Seat" model="Arona (KJ7)" year_from="2017" year_to="н.в."/>
-<Car make="Seat" model="Tarraco (KN2)" year_from="2018" year_to="н.в."/>
 </CompatibleCars>
 </Ad>
 <Ad>
@@ -5761,52 +5708,6 @@
 </CompatibleCars>
 </Ad>
 <Ad>
-<Id>amort22813370150</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507796763</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>2700</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/zPudxhecG9c7Hw"/>
-</Images>
-<Title>TRW GDB1947 Колодки тормозные дисковые</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>тормозная система</SparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>TRW</Brand>
-<OEM>GDB1947</OEM>
-<CompatibleCars>
-<Car make="Land Rover" model="Freelander 2 (FA_)"/>
-<Car make="Range Rover" model="Evoque (LV_)"/>
-<Car make="Volvo" model="S60 II (134)"/>
-<Car make="Volvo" model="S80 II (124)"/>
-<Car make="Volvo" model="V60 I (155, 157)"/>
-<Car make="Volvo" model="V70 III (135)"/>
-<Car make="Volvo" model="XC60 I SUV (156)"/>
-<Car make="Volvo" model="XC70 II (136)"/>
-<Car make="Volvo" model="S90 II (234)"/>
-<Car make="Volvo" model="V90 II (235, 236)"/>
-<Car make="Volvo" model="XC90 II (256)"/>
-</CompatibleCars>
-</Ad>
-<Ad>
 <Id>amort22813370151</Id>
 <ListingFee>Package</ListingFee>
 <AvitoId>7507294150</AvitoId>
@@ -6208,43 +6109,6 @@
 <OEM>9220</OEM>
 <CompatibleCars>
 <Car make="Land Rover" model="Freelander (LN_)"/>
-</CompatibleCars>
-</Ad>
-<Ad>
-<Id>amort22813370161</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507355842</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>1000</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/npWVBDLoP33p8w"/>
-</Images>
-<Title>ABS 36791 Комплект тормозных колодок дисковых</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>тормозная система</SparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>ABS</Brand>
-<OEM>36791</OEM>
-<CompatibleCars>
-<Car make="Land Rover" model="Discovery Sport (L550)"/>
-<Car make="Range Rover" model="Evoque (LV_)"/>
 </CompatibleCars>
 </Ad>
 <Ad>
@@ -7226,48 +7090,6 @@
 </CompatibleCars>
 </Ad>
 <Ad>
-<Id>amort22813370188</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507222083</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>6000</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/70rJHoHISJQ2Pw"/>
-</Images>
-<Title>GKN 301950 ШРУС в комплекте</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Трансмиссия и привод</SparePartType>
-<TransmissionSparePartType>Приводные валы, полуоси и ШРУСы</TransmissionSparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>GKN</Brand>
-<OEM>301950</OEM>
-<CompatibleCars>
-<Car make="Audi" model="80 B3 (89, 89Q, 8A)"/>
-<Car make="Audi" model="80 B4 (8C2)"/>
-<Car make="Audi" model="80 B4 Avant (8C5)"/>
-<Car make="Audi" model="90 B3 (89, 89Q, 8A)"/>
-<Car make="Audi" model="Coupe B3 (89, 8B)"/>
-<Car make="Audi" model="Cabriolet B4 (8G7)"/>
-</CompatibleCars>
-</Ad>
-<Ad>
 <Id>amort22813370189</Id>
 <ListingFee>Package</ListingFee>
 <AvitoId>7507253478</AvitoId>
@@ -7448,64 +7270,6 @@
 <Car make="Mercedes-Benz" model="CLK Cabriolet (A209)"/>
 <Car make="Mercedes-Benz" model="CLS (C219)"/>
 <Car make="Mercedes-Benz" model="SLK (R171)"/>
-</CompatibleCars>
-</Ad>
-<Ad>
-<Id>amort22813370193</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507372453</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>1000</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/277232HLn7m1sA"/>
-</Images>
-<Title>GKN 300516 Пыльник ШРУСа</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Трансмиссия и привод</SparePartType>
-<TransmissionSparePartType>Приводные валы, полуоси и ШРУСы</TransmissionSparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>GKN</Brand>
-<OEM>300516</OEM>
-<CompatibleCars>
-<Car make="Audi" model="80 B2 седан (81, 85, 811, 813, 814, 819)"/>
-<Car make="Audi" model="80 B3 седан (89, 89Q, 8A)"/>
-<Car make="Audi" model="80 B4 седан (8C2)"/>
-<Car make="Audi" model="80 B4 Avant (8C5)"/>
-<Car make="Audi" model="90 B3 седан (89, 89Q, 8A)"/>
-<Car make="Audi" model="100 C2 седан (43)"/>
-<Car make="Audi" model="100 C3 седан (44, 44Q)"/>
-<Car make="Audi" model="100 C3 Avant (44, 44Q)"/>
-<Car make="Audi" model="100 C4 седан (4A2)"/>
-<Car make="Audi" model="100 C4 Avant (4A5)"/>
-<Car make="Audi" model="200 C2 седан (43)"/>
-<Car make="Audi" model="200 C3 седан (44, 44Q)"/>
-<Car make="Audi" model="200 C3 Avant (44, 44Q)"/>
-<Car make="Audi" model="Coupe B2 (81, 855)"/>
-<Car make="Audi" model="Coupe B3 (89, 8B)"/>
-<Car make="Audi" model="Cabriolet B4 (8G7)"/>
-<Car make="Audi" model="A4 B5 седан (8D2)"/>
-<Car make="Audi" model="A4 B5 Avant (8D5)"/>
-<Car make="Audi" model="A6 C4 седан (4A2)"/>
-<Car make="Audi" model="A6 C4 Avant (4A5)"/>
-<Car make="Audi" model="A6 C5 седан (4B2)"/>
-<Car make="Audi" model="A6 C5 Avant (4B5)"/>
 </CompatibleCars>
 </Ad>
 <Ad>
@@ -8032,45 +7796,6 @@
 <Car make="Land Rover" model="Range Rover Evoque (LV_)"/>
 <Car make="Land Rover" model="Discovery Sport (L550)"/>
 <Car make="Jaguar" model="E-Pace (X540)"/>
-</CompatibleCars>
-</Ad>
-<Ad>
-<Id>amort22813370207</Id>
-<ListingFee>Package</ListingFee>
-<AvitoId>7507544767</AvitoId>
-<ManagerName>E-DET</ManagerName>
-<ContactPhone>79199984762</ContactPhone>
-<ContactMethod>По телефону и в сообщениях</ContactMethod>
-<Email>misha.filatov.2004@gmail.com</Email>
-<Address>Москва</Address>
-<Category>Запчасти и аксессуары</Category>
-<Description>
-<![CDATA[ Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail! ]]>
-</Description>
-<Price>1250</Price>
-<Images>
-<Image url="https://disk.yandex.ru/i/_MYzIXwVlncNAg"/>
-</Images>
-<Title>TRW JTE1107 Наконечник рулевой тяги левый</Title>
-<Delivery>
-<AvitoDelivery>true</AvitoDelivery>
-<Pickup>true</Pickup>
-<DeliverySubsidy>false</DeliverySubsidy>
-</Delivery>
-<GoodsType>Запчасти</GoodsType>
-<AdType>Товар приобретен на продажу</AdType>
-<ProductType>Для автомобилей</ProductType>
-<SparePartType>Рулевое управление</SparePartType>
-<Condition>Новое</Condition>
-<Originality>Аналог</Originality>
-<Availability>В наличии</Availability>
-<Brand>TRW</Brand>
-<OEM>JTE1107</OEM>
-<CompatibleCars>
-<Car make="Mercedes-Benz" model="E-Class (W211)"/>
-<Car make="Mercedes-Benz" model="E-Class T-Model (S211)"/>
-<Car make="Mercedes-Benz" model="CLS (C219)"/>
-<Car make="Mercedes-Benz" model="SL (R230)"/>
 </CompatibleCars>
 </Ad>
 <Ad>
@@ -9773,6 +9498,7 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
 
 
 
